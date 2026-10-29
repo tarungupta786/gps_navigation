@@ -1,9 +1,19 @@
 <<<<<<< HEAD
+venv/
 .venv/
 __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
 data/*.csv
+=======
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+data/*.csv
+>>>>>>> fc49067b5c5d9a6df23c008ce282572eae9937ae
+
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
